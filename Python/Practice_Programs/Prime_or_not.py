@@ -16,4 +16,5 @@ if n > 1:
 else:
     print("Given number is Not a Prime")
     
+
     
